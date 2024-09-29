@@ -1,5 +1,5 @@
-# Streamlined-Hotel-Management-System-Hilltop-Heaven-Resort
 
+# Streamlined-Hotel-Management-System-Hilltop-Heaven-Resort
 
 ## Overview
 
@@ -35,7 +35,7 @@ The system uses the following database tables:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/hotel-management-system.git
+   git clone https://github.com/Karthika-B12/Streamlined-Hotel-Management-System-Hilltop-Heaven-Resort.git
    cd hotel-management-system
    ```
 
@@ -65,9 +65,10 @@ The system uses the following database tables:
    - Log in with admin credentials.
    - Manage room types, bookings, and guest profiles.
 
-## Screenshots
+## Output
 
-Screenshots of the guest and admin portals can be found in the `/screenshots` folder.
+You can view the output of the system here:
+![Screenshot 2024-09-29 130542](https://github.com/user-attachments/assets/6412b000-8fec-4b11-b6cd-96f8566b1c19)
 
 ## Limitations
 
@@ -80,12 +81,8 @@ Screenshots of the guest and admin portals can be found in the `/screenshots` fo
 - **Tkinter**: Python library used for building the GUI.
 - **MySQL Connector**: Used to connect the Python application with the MySQL database.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact
 
-For any queries or further information, please contact [Your Name] at [your.email@example.com].
+For any queries or further information, please contact Karthika at [karthikapanchu2004@gmail.com].
 
 ---
