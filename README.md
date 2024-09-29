@@ -68,7 +68,7 @@ The system uses the following database tables:
 ## Output
 
 You can view the output of the system here:
-(https://github.com/user-attachments/assets/6412b000-8fec-4b11-b6cd-96f8566b1c19)
+![Screenshot 2024-09-29 130542](https://github.com/user-attachments/assets/6412b000-8fec-4b11-b6cd-96f8566b1c19)
 
 
 ## Resources
