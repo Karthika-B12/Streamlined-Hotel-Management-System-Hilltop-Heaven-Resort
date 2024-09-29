@@ -52,7 +52,7 @@ The system uses the following database tables:
 
 4. **Run the Application**:
    ```bash
-   python main.py
+   python project full code .py
    ```
 
 ## Usage
@@ -68,12 +68,8 @@ The system uses the following database tables:
 ## Output
 
 You can view the output of the system here:
-![Screenshot 2024-09-29 130542](https://github.com/user-attachments/assets/6412b000-8fec-4b11-b6cd-96f8566b1c19)
+(https://github.com/user-attachments/assets/6412b000-8fec-4b11-b6cd-96f8566b1c19)
 
-## Limitations
-
-- The current system does not support real-time updates for room availability.
-- Additional payment gateway integration is required for online transactions.
 
 ## Resources
 
@@ -83,6 +79,6 @@ You can view the output of the system here:
 
 ## Contact
 
-For any queries or further information, please contact Karthika at [karthikapanchu2004@gmail.com].
+For any queries or further information, please contact Karthika at karthikapanchu2004@gmail.com.
 
 ---
